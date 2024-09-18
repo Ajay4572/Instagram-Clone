@@ -8,7 +8,7 @@ The latest update includes some nice new features, such as the gradient border a
 
 - **[Live Preview](https://leocosta1.github.io/instagram-clone/)**
 
-## 🤓 Improved Skills
+## Improved Skills
 
 - Layout (Flexbox);
 - Positioning;
@@ -22,7 +22,7 @@ The latest update includes some nice new features, such as the gradient border a
 - LocalStorage;
 - Intersection Observer;
 
-## ✅ ToDo
+##  ToDo
 
 - [ ] Refactor CSS (Maybe add SASS).
 
@@ -36,6 +36,6 @@ The latest update includes some nice new features, such as the gradient border a
 
 ## ℹ Infos
 
-Made by Leonardo Costa 🙂
+Made by Ajay Kumar 🙂
 
 Distributed under the MIT License. See ``LICENSE`` for more information.
